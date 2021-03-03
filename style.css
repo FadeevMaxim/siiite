@@ -1,14 +1,14 @@
 
 .logo {
-	font-family: "10115";
-	margin: 3px 100px;
-	color: white;
-	font-size: 40px;
-}
+    padding: 3px 5px;
+	font-family: 'Amatic SC', cursive;
+    flex: 1 1 auto;
+   width: 100%;
+   max-width: 1000px;
+   margin: 0px auto;
+   text-align: left;
 
 
-#header {
-	  border-radius: 20px;
 }
 
 .ooo {
@@ -22,13 +22,7 @@
 
 }
 .ooo {
-	position: absolute;
-	margin: 15px 10px;
-    width: 40px; /* ширина */
-    top: 0px;     /* Расстояние от верхнего края */ 
-    left: 500px;   /* Расстояние от левого края */ 
-    height: 45px; /* Высота слоя */
-    z-index: 2000;
+   margin: 0px 500px;
 
 }
  body {
@@ -39,32 +33,4 @@
     -o-background-size: 100%;
     background-size: 100%; 
     margin: 0; }
-   #sidebar, #content, #header { position: absolute; } 
-   #sidebar, #content, #header { overflow: auto; padding: 10px; }
-   /*#header {
-    margin: 10px 10px;
-    width: 1330px; 
-    top: 0px;    
-    left: 0px;   
-    height: 40px;
-    background: #4B0082;
-    z-index: 500;
-
-   }
-   #header h1 { padding: 20px; margin: 0; }
-   #sidebar { 
-    width: 50px; background: #ECF5E4; border-right: 1px solid #231F20;
-    top: 80px; 
-    bottom: 0; 
-   }
-   #content {
-    top: 60px;
-    left: 70px;  
-    bottom: 0; right: 0; */
-   }
-@font-face { 
-font-family: "10115"; 
-src: url("../fonts/10115.ttf") format("truetype"); 
-font-style: normal; 
-font-weight: normal; 
-} 
+   
