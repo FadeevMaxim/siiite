@@ -1,7 +1,6 @@
-
 .logo {
     padding: 3px 5px;
-	font-family: 'Amatic SC', cursive;
+  font-family: 'Amatic SC', cursive;
     flex: 1 1 auto;
    width: 100%;
    max-width: 1000px;
@@ -12,13 +11,13 @@
 }
 
 .ooo {
-	color: black;
-	font-size: 30px;
-	text-decoration: none;
-	transition: color 0.2s linear;
+  color: black;
+  font-size: 30px;
+  text-decoration: none;
+  transition: color 0.2s linear;
 }
 .ooo:hover {
-	color: white;
+  color: white;
 
 }
 .ooo {
@@ -32,5 +31,14 @@
     -webkit-background-size: 100%;
     -o-background-size: 100%;
     background-size: 100%; 
-    margin: 0; }
-   
+    margin: 0; 
+   }
+
+   .mainsub {
+    width: 100%;
+    height: 500px;
+    background-color: white;
+    position: absolute;
+    top: 500px;
+
+   }
