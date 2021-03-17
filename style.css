@@ -1,4 +1,10 @@
 
+.block__pod {
+ width: 150px;
+ height: 150px;
+
+}
+
 .maintext {
   font-family: 'Bebas Neue', cursive;
   text-align: center;
@@ -12,16 +18,13 @@
  }
 
 .logo {
+	color: white;
     padding: 3px 5px;
     font-family: 'Amatic SC', cursive;
     flex: 1 1 auto;
     width: 100%;
     max-width: 1000px;
     margin: 0px auto;
-    color: white;
-    text-align: left;
-
-
 }
 
 .ooo {
