@@ -1,7 +1,54 @@
+.block {
+padding: 35px;
+}
+.block2 {
 
-.block__pod {
- width: 150px;
- height: 150px;
+}
+.block__pod_0 {
+ width: 257px;
+ height: 120px;
+ padding: 10px;
+}
+.block__pod_1 {
+ width: 183px;
+ height: 120px;
+ padding: 10px;
+
+}
+.block__pod_2 {
+ width: 248px;
+ height: 120px;
+ padding: 10px;
+
+}
+.block__pod_3 {
+ width: 225px;
+ height: 120px;
+ padding: 10px;
+
+}
+.block__pod_4 {
+ width: 235px;
+ height: 120px;
+ padding: 10px;
+
+}
+.block__pod_5 {
+ width: 208px;
+ height: 120px;
+ padding: 10px;
+
+}
+.block__pod_6 {
+ width: 239px;
+ height: 120px;
+ padding: 10px;
+
+}
+.block__pod_7 {
+ width: 236px;
+ height: 120px;
+ padding: 10px;
 
 }
 
