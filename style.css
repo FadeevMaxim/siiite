@@ -10,14 +10,7 @@ padding: 20px 168px
  padding: 10px;
  transition: 0.2s linear;
 }
-.block__pod_0:hover {
- width: 257px;
- height: 120px;
- padding: 10px;
- background-color: lightblue;
- 
 
-}
 .block__pod_1 {
  width: 183px;
  height: 120px;
@@ -63,6 +56,117 @@ padding: 20px 168px
   width: 100%;
   height: 280px;
  
+}
+.block8 {
+  padding: 10px 170px;
+  position: absolute;
+  z-index: 100;
+  top: 424px;
+}
+.block9 {
+  padding: 20px 168px;
+  position: absolute;
+  z-index: 101;
+  top: 588px;
+
+}
+.block__pod_8 {
+ width: 257px;
+ height: 120px;
+ padding: 10px;
+ transition: 0.2s linear;
+}
+.block__pod_8:hover {
+ width: 257px;
+ height: 120px;
+ padding: 10px;
+ opacity: 0;
+}
+.block__pod_9 {
+ width: 183px;
+ height: 120px;
+ padding: 10px;
+  transition: 0.2s linear;
+}
+.block__pod_9:hover {
+ width: 183px;
+ height: 120px;
+ padding: 10px;
+ opacity: 0;
+}
+
+.block__pod_10 {
+ width: 248px;
+ height: 120px;
+ padding: 10px;
+transition: 0.2s linear;
+}
+.block__pod_10:hover {
+ width: 248px;
+ height: 120px;
+ padding: 10px;
+ opacity: 0;
+}
+.block__pod_11 {
+ width: 225px;
+ height: 120px;
+ padding: 10px;
+transition: 0.2s linear;
+}
+.block__pod_11:hover {
+ width: 225px;
+ height: 120px;
+ padding: 10px;
+ opacity: 0;
+}
+.block__pod_12 {
+ width: 235px;
+ height: 120px;
+ padding: 0px 10px;
+ transition: 0.2s linear;
+}
+.block__pod_12:hover {
+ width: 235px;
+ height: 120px;
+ padding: 0px 10px;
+ opacity: 0;
+}
+.block__pod_13 {
+ width: 208px;
+ height: 120px;
+ padding:0px 10px;
+ transition: 0.2s linear;
+}
+.block__pod_13:hover {
+ width: 208px;
+ height: 120px;
+ padding:0px 10px;
+ opacity: 0;
+}
+
+.block__pod_14 {
+ width: 239px;
+ height: 120px;
+ padding: 0px 10px;
+ transition: 0.2s linear;
+}
+.block__pod_14:hover {
+ width: 239px;
+ height: 120px;
+ padding: 0px 10px;
+ opacity: 0;
+}
+.block__pod_15 {
+ width: 236px;
+ height: 120px;
+ padding: 0px 10px;
+ transition: 0.2s linear;
+}
+.block__pod_15:hover {
+ width: 236px;
+ height: 120px;
+ padding: 0px 10px;
+ opacity: 0;
 }
 .maintext {
   font-family: 'Bebas Neue', cursive;
